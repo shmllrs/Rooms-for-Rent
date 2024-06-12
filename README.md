@@ -1,0 +1,1 @@
+Has tenants.txt for saving and loading data. Made for 2nd Sem SY 2023-2024. Kulang ng freeall ng lahat ng tenants sa menu sa exit part then yung load need na mag-alphabetically arrange kasi sabi same lang daw yung *head loop sa add unit that's why di maayos ang pag-load alphabetically ng tenants.
